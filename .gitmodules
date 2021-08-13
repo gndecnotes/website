@@ -1,0 +1,4 @@
+[submodule "Notes/public"]
+	path = Notes/public
+	url = https://github.com/gndecnotes/gndecnotes.github.io.git
+	branch = main

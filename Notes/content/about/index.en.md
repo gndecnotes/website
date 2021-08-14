@@ -13,7 +13,7 @@ math:
 
 ### Who am I?
 
-My name is Tanvir Singh and I am a Developer and VFX Artist, currently strudying at GNDEC. I started this website because I was bored and was finding something to do. If this website hepled you, then enjoy.
+My name is Tanvir Singh and I am a Developer and VFX Artist, currently studying at GNDEC. I started this website because I was bored and was finding something to do. If this website hepled you, then enjoy.
 
 
 ### Check out my social media

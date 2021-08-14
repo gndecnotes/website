@@ -3,7 +3,7 @@ baseURL = "https://gndecnotes.github.io/"
 defaultContentLanguage = "en"
 # language code
 languageCode = "en"
-title = "Engineting Notes"
+title = "Engineering Notes"
 
 # Change the default theme to be use when building the site with Hugo
 theme = "LoveIt"
@@ -12,7 +12,7 @@ theme = "LoveIt"
   # LoveIt CHANGED | 0.2.0 LoveIt theme version
   version = "0.2.X"
   # site description
-  description = "This is My New Hugo Site"
+  description = "Get all engineering notes ans books at this place."
   # site keywords
   keywords = ["Theme", "Hugo"]
   # site default theme ("light", "dark", "auto")
@@ -63,6 +63,17 @@ theme = "LoveIt"
     url = "/about/"
     title = ""
     weight = 4
+  [[menu.main]]
+    identifier = ""
+    # you can add extra information before the name (HTML format is supported), such as icons
+    pre = ""
+    # you can add extra information after the name (HTML format is supported), such as icons
+    post = ""
+    name = "Join Discord"
+    url = "https://discord.gg/8b8ffUTus8"
+    # title will be shown when you hover on this menu link
+    title = ""
+    weight = 5
 
 # Markup related configuration in Hugo
 [markup]
@@ -198,10 +209,4 @@ theme = "LoveIt"
   isPlainText = true
   isHTML = false
 
-  [params.analytics]
-    enable = false
-    # Google Analytics
-    [params.analytics.google]
-      id = "G-5H0PY9M039"
-      # whether to anonymize IP
-      anonymizeIP = true
+ 
